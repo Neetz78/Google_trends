@@ -25,5 +25,5 @@ The different approaches I went with this assessment is mainly for capturing wee
 ## how to execute your program.
 Run the below functions  to obtain weekly and daily data
 
-final_weekly_data(['bitcoin'])
-get_daily_data(['bitcoin'])
+* final_weekly_data(['bitcoin'])
+* get_daily_data(['bitcoin'])
